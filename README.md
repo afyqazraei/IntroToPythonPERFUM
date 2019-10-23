@@ -1,4 +1,6 @@
-# IntroToPythonPERFUM
+# Introduction To Python
+
+Hi, everyone!
 
 For those of you who are new to all this, welcome to GitHub! GitHub is a place where people, sometimes from all corners of the world, come together and collaborate on programming projects. Here in this repository, are Jupyter Notebooks that can be launched through Binder. All of this is open source, and can be accessible almost anywhere, anytime. 
 
