@@ -6,8 +6,6 @@ For those of you who are new to all this, welcome to GitHub! GitHub is a place w
 
 Just press the Binder link and let it launch. Learn, enjoy, explore!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master)
-
 |Notebook|Open|
 |:--|:--|
 |Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master)|
