@@ -8,4 +8,4 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 
 |Notebook|Open|
 |:--|:--|
-|Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master)|
+|Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=Intro_To_Python.ipynb)|
