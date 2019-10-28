@@ -1,4 +1,4 @@
-### Introduction To Python
+# Introduction To Python
 
 ## For students
 
@@ -14,11 +14,11 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 
 ## For developers
 
-# 1. Get a Linux terminal.
+### 1. Get a Linux terminal.
 
 There are multiple ways to use a Linux terminal. First, using a proper Linux OS. Second, using a Virtual Machine. Third, if you are using Windows 10, use the Windows Linux Subsystem. Fourth, MacOS is already a proper UNIX terminal.
 
-# 2. Install Anaconda (preferable) or Miniconda (a run-down version). Later, install Jupyter.
+### 2. Install Anaconda (preferable) or Miniconda (a run-down version). Later, install Jupyter.
 
 Follow the steps here:
 
@@ -56,13 +56,13 @@ When done, source the file:
 source .bashrc
 ```
 
-# 3. Checkout the repository.
+### 3. Checkout the repository.
 
 ```bash
 git clone git@github.com:afyqazraei/IntroToPythonPERFUM.git 
 ```
 
-# 4. Launch the Jupyter Notebook.
+### 4. Launch the Jupyter Notebook.
 
 ```bash
 jupyter-notebook IntroToPythonPERFUM/
@@ -70,7 +70,7 @@ jupyter-notebook IntroToPythonPERFUM/
 
 When initialized, copy the localhost link and paste it in a web browser. Then, you are all set and ready to go!
 
-## Developers
+# Developers
 
 |Module|Developer|
 |:--|:--|
