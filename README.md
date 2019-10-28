@@ -16,7 +16,7 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 
 ### 1. Get a Linux terminal.
 
-There are multiple ways to use a Linux terminal. First, using a proper Linux OS. Second, using a Virtual Machine. Third, if you are using Windows 10, use the Windows Linux Subsystem. Fourth, MacOS is already a proper UNIX terminal.
+One can either use a proper UNIX machine, a dual boot for a Linux OS, a virtual machine or even the Windows Linux subsystem built into Windows 10. Find one that suits your needs.
 
 ### 2. Install Anaconda (preferable) or Miniconda (a run-down version). Later, install Jupyter.
 
@@ -28,7 +28,7 @@ and here:
 
 https://jupyter.org/install
 
-Check your .bashrc file for the following script, if non-existant then paste it.
+Check your .bashrc file for the following script, if non-existent then paste this:
 
 ```bash
 export DISPLAY=localhost:0.0
