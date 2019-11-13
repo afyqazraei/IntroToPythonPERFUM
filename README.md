@@ -13,6 +13,7 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 |Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=Intro_To_Python.ipynb)|
 |Kinematics of Basketball Shot|** under construction **|
 |Project 2|** under construction **|
+|Project 3|** under construction **|
 
 ## For developers
 
