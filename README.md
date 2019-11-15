@@ -11,9 +11,9 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 |Notebook|Open|
 |:--|:--|
 |Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=Intro_To_Python.ipynb)|
-|Kinematics of Basketball Shot|** under construction **|
-|Project 2|** under construction **|
-|Project 3|** under construction **|
+|Basketball Shot Kinematics|** under construction **|
+|Random Walk|** under construction **|
+|Simple Harmonic Motion|** under construction **|
 
 ## For developers
 
@@ -78,6 +78,6 @@ When initialized, copy the localhost link and paste it in a web browser. Then, y
 |Module|Developer|
 |:--|:--|
 |Intro To Python| Afiq Azraei |
-| Project 1 | Harith Zulfaizal |
-| Project 2 | Zaim Hakimie |
-| Project 3 | Yao Feng |
+| Random Walk | Harith Zulfaizal |
+| Basketball Shot Kinematics | Zaim Hakimie |
+| Simple Harmonic Motion | Yao Feng |
