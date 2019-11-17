@@ -13,7 +13,7 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 |Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=Intro_To_Python.ipynb)|
 |Basketball Shot Kinematics|** under construction **|
 |Random Walk|** under construction **|
-|Simple Harmonic Motion|** under construction **|
+|Simple Harmonic Motion|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/blob/master/SHM.ipynb/master)|
 
 ## For developers
 
