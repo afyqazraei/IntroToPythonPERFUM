@@ -10,12 +10,12 @@ For those of you who are new to all this, welcome to GitHub! GitHub is a place w
 
 The Notebooks will give you a brief tutorial into Python, designed for physics undergrads that have little to no experience in programming. Just press the Binder link and let it launch. Learn, enjoy, explore!
 
-|Notebook|Open|
-|:--|:--|
-|Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=Intro_To_Python.ipynb)|
-|Basketball Shot Kinematics|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=BasketballKinematics.ipynb)|
-|Random Walk|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=RandomWalk.ipynb)|
-|Simple Harmonic Motion|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=SHM.ipynb)|
+|Notebook|Open|Contributor|
+|:--|:--|:--|
+|Intro To Python|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=Intro_To_Python.ipynb)|Afiq Azraei|
+|Basketball Shot Kinematics|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=BasketballKinematics.ipynb)|Zaim Hakimie|
+|Random Walk|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=RandomWalk.ipynb)|Harith Zulfaizal|
+|Simple Harmonic Motion|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=SHM.ipynb)|Yao Feng|
 
 ### Python Code Camp
 
@@ -79,11 +79,3 @@ jupyter-notebook IntroToPythonPERFUM/
 
 When initialized, copy the localhost link and paste it in a web browser. Then, you are all set and ready to go!
 
-# Contributors
-
-|Module|Developer|
-|:--|:--|
-|Intro To Python| Afiq Azraei |
-| Random Walk | Harith Zulfaizal |
-| Basketball Shot Kinematics | Zaim Hakimie |
-| Simple Harmonic Motion | Yao Feng |
