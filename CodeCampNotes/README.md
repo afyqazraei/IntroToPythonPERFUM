@@ -4,4 +4,5 @@ Contributors:
 * Harith Zulfaizal
 * Yao Feng
 * Zaim Hakimie
+* Nurul Batrisyia 
 * Afiq Azraei
