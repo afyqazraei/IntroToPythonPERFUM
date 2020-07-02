@@ -6,6 +6,8 @@ Hi, everyone!
 
 For those of you who are new to all this, welcome to GitHub! GitHub is a place where people, sometimes from all corners of the world, come together and collaborate on programming projects. Here in this repository, are Jupyter Notebooks that can be launched through Binder. All of this is open source, and can be accessible almost anywhere, anytime. 
 
+### Jupyter Notebooks
+
 The Notebooks will give you a brief tutorial into Python, designed for physics undergrads that have little to no experience in programming. Just press the Binder link and let it launch. Learn, enjoy, explore!
 
 |Notebook|Open|
@@ -14,6 +16,10 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 |Basketball Shot Kinematics|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=BasketballKinematics.ipynb)|
 |Random Walk|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=RandomWalk.ipynb)|
 |Simple Harmonic Motion|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=SHM.ipynb)|
+
+### Python Code Camp
+
+Some of the notes from the previous Python Code Camp are available in the CodeCampNotes directory. They offer more details on the stuff you learnt in the Jupyter Notebooks.
 
 ## For developers
 
