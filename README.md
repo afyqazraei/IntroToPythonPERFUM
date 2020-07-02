@@ -15,6 +15,10 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 |Random Walk|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=RandomWalk.ipynb)|
 |Simple Harmonic Motion|[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afyqazraei/IntroToPythonPERFUM/master?filepath=SHM.ipynb)|
 
+### Python Code Camp
+
+Some of the notes from the previous Python Code Camp are available in the CodeCampNotes directory. They offer more details on the stuff you learnt in the Jupyter Notebooks.
+
 ## For developers
 
 ### 1. Get a Linux terminal.
