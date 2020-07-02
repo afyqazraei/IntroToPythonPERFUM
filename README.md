@@ -21,7 +21,7 @@ The Notebooks will give you a brief tutorial into Python, designed for physics u
 
 Some of the notes from the previous Python Code Camp are available in the CodeCampNotes directory. They offer more details on the stuff you learnt in the Jupyter Notebooks.
 
-## For developers
+## For contributors
 
 ### 1. Get a Linux terminal.
 
@@ -79,7 +79,7 @@ jupyter-notebook IntroToPythonPERFUM/
 
 When initialized, copy the localhost link and paste it in a web browser. Then, you are all set and ready to go!
 
-# Developers
+# Contributors
 
 |Module|Developer|
 |:--|:--|
